@@ -9,7 +9,7 @@ import string_helper
 import messages
 
 # Go to botfather and create a bot and copy the token and paste it here in token
-TOKEN = "7306348916:AAGeSLw30ANIds9O_aDq-ac7fF2gcvxuvKY" # token of the bot
+TOKEN = " " # token of the bot
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
